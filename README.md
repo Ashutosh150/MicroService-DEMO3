@@ -1,0 +1,1 @@
+This is practice for MicroService using RestTemplate, which consist of 2 Services as "Student & Department". Further we had alsoused Api Gateway for our project including Service Discovery Clients. And Lastly we had Also used Config Server that reads the Configuration through the Git repository we mentioned in it then Zipkin is used to trace overall traces of our project
